@@ -1,0 +1,12 @@
+{
+  "platform": "node",
+  "port": 3000,
+  "app": "ajormehrabcrm",
+  "nodeVersion": "22",
+  "disks": [
+    {
+      "name": "mydiskdb",
+      "mountTo": "/app/data"
+    }
+  ]
+}
